@@ -36,3 +36,4 @@
 Для разрешения конфликта необходимо выбрать один из трех сценариев: *Accept current change / Accept incoming change/ Accept both changes / Compare changes*. Либо внести изменения в тексте вручную.
 
 ## Удаление веток
+Нужно изучить как удалять ветки
