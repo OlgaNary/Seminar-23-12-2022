@@ -40,3 +40,7 @@
 
 ## Удаление веток
 Чтобы удалить ветку используется команда *git branch -d <имя ветки>*. Для этого в терминале с папкой-репозиторием нужно написать: *git branch -d <имя ветки>*.
+
+## Изменения делаем в Visual Studio Code
+wvghrewvhgwvhwvbwbvgbvwbvwhjbvhjvb
+wjvbvjwbvwhvbhwbvwkhbkwvwjhbwvkhbkwvjkhbv
