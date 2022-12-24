@@ -44,3 +44,6 @@
 ## Изменения делаем в Visual Studio Code
 wvghrewvhgwvhwvbwbvgbvwbvwhjbvhjvb
 wjvbvjwbvwhvbhwbvwkhbkwvwjhbwvkhbkwvjkhbv
+## Новые изменения в github
+ghrotighrteoiughrteiouhgbrteuhbgtuhbvnjvfioregwivhjrwtpebhrtjbhjutr
+wjerhbhvkjnwvljwvwrjwrtvwljgbwtvwrtipbvgvtwripbvwl;vwribtvwrigbwb
